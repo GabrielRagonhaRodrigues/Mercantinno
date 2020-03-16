@@ -2,6 +2,6 @@
 Mercantinno - Italian Grocery
 
 ## Padrão de nomenclatura de Variáveis e Funções
-Variáveis: Camel Case - *Exemplo: userName*
+Variáveis: Camel Case - __*Exemplo: userName*__
 
-Funções: Underscore - *Exemplo: edit_userName*
+Funções: Underscore - __*Exemplo: edit_userName*__
