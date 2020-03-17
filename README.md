@@ -28,7 +28,7 @@ Funções: Underscore - __*Exemplo: edit_userName*__
 - [ ] register.php
 
 
-- [x] auth.php
+- [ ] auth.php
 
 
 ## Quote:
