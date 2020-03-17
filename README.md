@@ -7,28 +7,28 @@ Variáveis: Camel Case - __*Exemplo: userName*__
 Funções: Underscore - __*Exemplo: edit_userName*__
 
 ### To do
-[] database.sql
+- [ ] database.sql
 
 
-[] style.css
+- [ ] style.css
 
 
-[] index.php
+- [ ] index.php
 
 
-[] connect.php
+- [ ] connect.php
 
 
-[] products.php
+- [ ] products.php
 
 
-[] login.php
+- [ ] login.php
 
 
-[] register.php
+- [ ] register.php
 
 
-[] auth.php
+- [x] auth.php
 
 
 ## Quote:
